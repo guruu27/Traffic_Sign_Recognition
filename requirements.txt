@@ -1,0 +1,7 @@
+-Preprocessing steps (DATA procuring, cleaning, imputation),
+- Make sure you are using the proper columns (features)
+-What the features are and determine the target labels,
+- Splitting data into train/test
+- Building a Regressor on this dataset using any Machine learning algorithm you prefer ( e.g., Random Forest,  XG boost, etc …), explain why you are choosing it and how it works.
+-Evaluating your best result, analyze the result and write a summary and conclusion. (use the appropriate evaluation tool, such as MSE,MAE, R square  etc )
+Note : Although this is valuable to get an excellent/accurate model, the magnitude of the evaluation metric you use, for example the magnitude of your MSE is not going to influence your mark at this time…as we are trying to practice using the tools.
